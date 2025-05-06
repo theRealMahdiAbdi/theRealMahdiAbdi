@@ -22,6 +22,6 @@
 
 <p align="center">
   <a href="https://t.me/mahdi22mn" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" width="24" height="24">
+    <img src="./tg.png" alt="Telegram" width="24" height="24">
   </a>
 </p>
