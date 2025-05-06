@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">سلام! من مهدی هستم</h1>
 
-<!--
-**theRealMahdiAbdi/theRealMahdiAbdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<blockquote align="center">
+دنبال راحتی نرو، هرچقدر سخت‌تر، ارزشش بیشتر.
+</blockquote>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>درباره من</h2>
+
+<p>
+من توسعه‌دهنده‌ای با علاقه به یادگیری و ساختن چیزهای جدیدم. بیشتر تو حوزه‌های <strong>Python</strong>، <strong>PHP</strong>، و <strong>توسعه‌ی وب</strong> فعالیت می‌کنم.
+</p>
+
+<h2>مهارت‌ها</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,html,css,js,cpp,c,bash&perline=3" alt="Skills" />
+</p>
+
+<h2>ارتباط با من</h2>
+
+<p align="center">
+  <a href="https://t.me/mahdi22mn" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" width="24" height="24">
+  </a>
+</p>
